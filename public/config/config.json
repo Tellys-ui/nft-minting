@@ -6,13 +6,13 @@
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Azuki",
+  "NFT_NAME": "Azuki - Public Mint",
   "SYMBOL": "MINT",
   "MAX_SUPPLY": 250,
   "WEI_COST": 60000000000000000,
   "DISPLAY_COST": 0.06,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nft-minting-application",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/azuki",
   "SHOW_BACKGROUND": true
 }
